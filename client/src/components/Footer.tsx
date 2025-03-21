@@ -70,7 +70,7 @@ const Footer = () => {
               </p>
               <p className="flex items-center mb-2">
                 <Mail className="mr-2" size={16} />
-                orrisaacademy1@gmail.com
+                orissaacademy1@gmail.com
               </p>
             </address>
           </div>
