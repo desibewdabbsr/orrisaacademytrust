@@ -187,34 +187,7 @@ const Home = () => {
         </div>
       </section>
 
-      {/* Team Section */}
-      <section id="team" className="py-16 bg-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <SectionTitle
-            title="Our Leadership Team"
-            subtitle="Meet the dedicated professionals who guide our institution toward excellence."
-          />
 
-          <div className="mt-16 grid grid-cols-1 gap-12 sm:grid-cols-2 lg:grid-cols-4">
-            {team.map((member) => (
-              <div key={member.id} className="text-center">
-                <div className="relative mx-auto h-40 w-40 rounded-full overflow-hidden">
-                  <img 
-                    className="h-full w-full object-cover" 
-                    src={member.image} 
-                    alt={member.name} 
-                  />
-                </div>
-                <div className="mt-4">
-                  <h3 className="text-lg font-semibold text-gray-900 font-['Merriweather']">{member.name}</h3>
-                  <p className="text-[#BE185D]">{member.role}</p>
-                  <p className="mt-2 text-sm text-gray-600">{member.bio}</p>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
 
       {/* Testimonials Section */}
       <section className="py-16 bg-gray-50">
@@ -578,7 +551,7 @@ const Home = () => {
                   <div className="ml-4">
                     <h4 className="text-lg font-medium text-gray-900">Phone</h4>
                     <p className="mt-1 text-gray-600">
-                      +91 1234567890
+                      +91 947173479
                     </p>
                   </div>
                 </div>
@@ -592,7 +565,7 @@ const Home = () => {
                   <div className="ml-4">
                     <h4 className="text-lg font-medium text-gray-900">Email</h4>
                     <p className="mt-1 text-gray-600">
-                      info@orrisaacademy.org
+                      orrisaacademy1@gmail.com
                     </p>
                   </div>
                 </div>
