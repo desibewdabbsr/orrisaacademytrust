@@ -5,7 +5,7 @@ const About = () => {
     <div className="py-16 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <SectionTitle
-          title="About Orrisa Academy Trust"
+          title="About Orissa Academy Trust"
           subtitle="Fostering educational excellence and community development in Odisha since 2005."
         />
 
@@ -13,7 +13,7 @@ const About = () => {
           <div className="prose prose-blue max-w-none">
             <h2 className="text-2xl font-bold text-gray-900 font-['Merriweather']">Our Story</h2>
             <p>
-              Orrisa Academy Trust was established in 2005 with a vision to transform education in Odisha. 
+              Orissa Academy Trust was established in 2005 with a vision to transform education in Odisha. 
               What began as a small initiative in Angul has now grown into a trusted educational institution 
               serving numerous communities across the state.
             </p>
@@ -56,7 +56,7 @@ const About = () => {
 
             <h2 className="text-2xl font-bold text-gray-900 font-['Merriweather'] mt-8">Our Approach</h2>
             <p>
-              At Orrisa Academy Trust, we believe in a holistic approach to education that goes beyond textbooks and examinations. 
+              At Orissa Academy Trust, we believe in a holistic approach to education that goes beyond textbooks and examinations. 
               Our educational methodology focuses on:
             </p>
             <ul>

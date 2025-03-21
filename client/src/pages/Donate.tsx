@@ -49,7 +49,7 @@ const Donate = () => {
               <CardContent className="space-y-6">
                 <div className="prose prose-blue max-w-none">
                   <p>
-                    At Orrisa Academy Trust, we believe that education is the most powerful tool for 
+                    At Orissa Academy Trust, we believe that education is the most powerful tool for 
                     transforming lives and communities. Your support helps us make quality education 
                     accessible to underprivileged children across Odisha.
                   </p>

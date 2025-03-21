@@ -129,7 +129,7 @@ const Gallery = () => {
           <div className="prose prose-blue max-w-none">
             <h3 className="text-2xl font-bold text-gray-900 font-['Merriweather']">About Our Gallery</h3>
             <p>
-              Our gallery showcases the vibrant life at Orrisa Academy Trust. These images capture the 
+              Our gallery showcases the vibrant life at Orissa Academy Trust. These images capture the 
               essence of our educational philosophy – a blend of academic rigor, cultural enrichment, 
               and personal development.
             </p>
@@ -140,7 +140,7 @@ const Gallery = () => {
             </p>
             <p>
               We regularly update our gallery with new photographs from recent events and activities. 
-              If you'd like to contribute photographs of Orrisa Academy Trust events you've attended, 
+              If you'd like to contribute photographs of Orissa Academy Trust events you've attended, 
               please contact our administration office.
             </p>
           </div>

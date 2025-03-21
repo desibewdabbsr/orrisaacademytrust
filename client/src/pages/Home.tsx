@@ -74,7 +74,7 @@ const Home = () => {
       <section id="about" className="py-16 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
-            title="About Orrisa Academy Trust"
+            title="About Orissa Academy Trust"
             subtitle="Fostering educational excellence and community development in Odisha since 2005."
           />
 
@@ -414,7 +414,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
             title="News & Events"
-            subtitle="Stay updated with the latest happenings at Orrisa Academy Trust."
+            subtitle="Stay updated with the latest happenings at Orissa Academy Trust."
           />
 
           <div className="mt-12 grid gap-8 md:grid-cols-3 sm:grid-cols-2">

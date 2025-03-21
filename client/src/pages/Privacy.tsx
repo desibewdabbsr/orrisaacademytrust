@@ -12,7 +12,7 @@ const Privacy = () => {
         <div className="mt-12 prose prose-blue max-w-none">
           <h2>1. Introduction</h2>
           <p>
-            Orrisa Academy Trust ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy 
+            Orissa Academy Trust ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy 
             explains how we collect, use, disclose, and safeguard your information when you visit our website or make 
             donations to our Trust. Please read this Privacy Policy carefully. By continuing to use our website, you 
             consent to the practices described in this policy.
@@ -105,9 +105,9 @@ const Privacy = () => {
           <h2>10. Contact Us</h2>
           <p>
             If you have any questions or concerns about this Privacy Policy, please contact us at:<br />
-            Orrisa Academy Trust<br />
+            Orissa Academy Trust<br />
             At - Amalapada, 6th lane, Angul, Odisha, 759122<br />
-            Email: privacy@orrisaacademy.org<br />
+            Email: orissaacademy1@gmail.com<br />
             Phone: +91 1234567890
           </p>
 

@@ -12,15 +12,15 @@ const Terms = () => {
         <div className="mt-12 prose prose-blue max-w-none">
           <h2>1. Introduction</h2>
           <p>
-            Welcome to Orrisa Academy Trust. These Terms and Conditions govern your use of our 
+            Welcome to Orissa Academy Trust. These Terms and Conditions govern your use of our 
             website and services. By accessing our website or using our services, you agree to 
             be bound by these Terms and Conditions. If you disagree with any part of these terms, 
             please do not use our website or services.
           </p>
 
           <h2>2. Definitions</h2>
-          <p>"Trust" refers to Orrisa Academy Trust, a registered educational trust under the Indian Trusts Act, 1882.</p>
-          <p>"Website" refers to the website operated by Orrisa Academy Trust accessible at [website address].</p>
+          <p>"Trust" refers to Orissa Academy Trust, a registered educational trust under the Indian Trusts Act, 1882.</p>
+          <p>"Website" refers to the website operated by Orissa Academy Trust accessible at [website address].</p>
           <p>"Services" refers to educational services, programs, and activities provided by the Trust.</p>
           <p>"Donation" refers to voluntary financial contributions made to support the Trust's activities.</p>
           <p>"User," "You," and "Your" refers to the individual or entity accessing or using our website or services.</p>
@@ -44,7 +44,7 @@ const Terms = () => {
           <h2>5. Intellectual Property</h2>
           <p>
             All content published on this website, including but not limited to text, graphics, logos, images, and 
-            software, is the property of Orrisa Academy Trust or its content providers and is protected by Indian 
+            software, is the property of Orissa Academy Trust or its content providers and is protected by Indian 
             and international copyright laws.
             Users may not reproduce, distribute, modify, or create derivative works of any material found on this 
             website without express written permission from the Trust.
@@ -68,7 +68,7 @@ const Terms = () => {
 
           <h2>8. Indemnification</h2>
           <p>
-            You agree to indemnify, defend, and hold harmless Orrisa Academy Trust, its trustees, officers, employees, 
+            You agree to indemnify, defend, and hold harmless Orissa Academy Trust, its trustees, officers, employees, 
             and agents from and against any and all claims, liabilities, damages, losses, or expenses, including 
             reasonable attorneys' fees and costs, arising out of or in any way connected with your access to or use of 
             this website.
@@ -91,9 +91,9 @@ const Terms = () => {
           <h2>11. Contact Information</h2>
           <p>
             If you have any questions or concerns regarding these Terms and Conditions, please contact us at:<br />
-            Orrisa Academy Trust<br />
+            Orissa Academy Trust<br />
             At - Amalapada, 6th lane, Angul, Odisha, 759122<br />
-            Email: info@orrisaacademy.org<br />
+            Email: orissaacademy1@gmail.com<br />
             Phone: +91 1234567890
           </p>
 

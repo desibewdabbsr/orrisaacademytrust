@@ -73,21 +73,21 @@ export const testimonials = [
     id: 1,
     name: "Priyanka Devi",
     role: "Parent of two students",
-    content: "The education my children receive at Orrisa Academy Trust has transformed their outlook on learning. The teachers are dedicated, and the programs are designed to bring out the best in every student.",
+    content: "The education my children receive at Orissa Academy Trust has transformed their outlook on learning. The teachers are dedicated, and the programs are designed to bring out the best in every student.",
     image: "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
   },
   {
     id: 2,
     name: "Rajiv Kumar",
     role: "Community Leader",
-    content: "The Orrisa Academy Trust has become an integral part of our community. Their focus on both academic excellence and cultural values creates well-rounded individuals prepared for the future.",
+    content: "The Orissa Academy Trust has become an integral part of our community. Their focus on both academic excellence and cultural values creates well-rounded individuals prepared for the future.",
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
   },
   {
     id: 3,
     name: "Anita Sharma",
     role: "Former Student",
-    content: "My years at Orrisa Academy Trust provided me with more than just education. The life skills and values I learned have shaped my career path and personal growth in profound ways.",
+    content: "My years at Orissa Academy Trust provided me with more than just education. The life skills and values I learned have shaped my career path and personal growth in profound ways.",
     image: "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
   }
 ];

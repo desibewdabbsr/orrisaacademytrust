@@ -15,7 +15,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-bold font-['Merriweather'] mb-4">Orrisa Academy Trust</h3>
+            <h3 className="text-xl font-bold font-['Merriweather'] mb-4">Orissa Academy Trust</h3>
             <p className="text-gray-400 mb-4">
               Dedicated to providing quality education and nurturing the potential of every student in Odisha.
             </p>
@@ -78,7 +78,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between">
           <p className="text-gray-400 text-sm text-center md:text-left">
-            &copy; {new Date().getFullYear()} Orrisa Academy Trust. All rights reserved.
+            &copy; {new Date().getFullYear()} Orissa Academy Trust. All rights reserved.
           </p>
           <div className="mt-4 md:mt-0 text-center md:text-right">
             <p className="text-gray-400 text-sm">

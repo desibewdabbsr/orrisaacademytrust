@@ -13,7 +13,7 @@ const Refund = () => {
           <h2>1. Introduction</h2>
           <p>
             This Refund and Cancellation Policy outlines the guidelines and procedures for refunds and cancellations 
-            related to donations made to Orrisa Academy Trust. We appreciate your generosity and support for our 
+            related to donations made to Orissa Academy Trust. We appreciate your generosity and support for our 
             educational initiatives. Please read this policy carefully to understand our practices regarding refunds 
             and cancellations.
           </p>
@@ -21,7 +21,7 @@ const Refund = () => {
           <h2>2. Donations</h2>
           <h3>2.1 General Donations</h3>
           <p>
-            Charitable donations to Orrisa Academy Trust are generally non-refundable. As a non-profit educational 
+            Charitable donations to Orissa Academy Trust are generally non-refundable. As a non-profit educational 
             trust, we rely on your donations to support our ongoing programs and initiatives. Once a donation is made, 
             it is typically considered final.
           </p>
@@ -81,7 +81,7 @@ const Refund = () => {
               program or event are non-refundable.
             </li>
             <li>
-              <strong>Cancellation by the Trust:</strong> If Orrisa Academy Trust cancels a program or event, registrants 
+              <strong>Cancellation by the Trust:</strong> If Orissa Academy Trust cancels a program or event, registrants 
               will be offered either a full refund or the option to transfer their registration to a future program or event.
             </li>
           </ul>
@@ -96,15 +96,15 @@ const Refund = () => {
           <p>
             For any questions or concerns regarding this Refund and Cancellation Policy, or to submit a refund request, 
             please contact us at:<br />
-            Orrisa Academy Trust<br />
+            Orissa Academy Trust<br />
             At - Amalapada, 6th lane, Angul, Odisha, 759122<br />
-            Email: finance@orrisaacademy.org<br />
+            Email: orissaacademy1@gmail.com<br />
             Phone: +91 1234567890
           </p>
 
           <h2>5. Modifications to This Policy</h2>
           <p>
-            Orrisa Academy Trust reserves the right to modify this Refund and Cancellation Policy at any time. Any changes 
+            Orissa Academy Trust reserves the right to modify this Refund and Cancellation Policy at any time. Any changes 
             will be effective immediately upon posting on our website. We encourage you to review this policy periodically 
             to stay informed about our refund practices.
           </p>

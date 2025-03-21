@@ -49,7 +49,7 @@ const Header = () => {
             <Link href="/">
               <div className="flex-shrink-0 flex items-center cursor-pointer">
                 <div className="font-['Merriweather'] font-bold text-2xl md:text-3xl">
-                  <span className="text-[#BE185D]">Orrisa</span> <span className="text-[#1E40AF]">Academy Trust</span>
+                  <span className="text-[#BE185D]">Orissa</span> <span className="text-[#1E40AF]">Academy Trust</span>
                 </div>
               </div>
             </Link>

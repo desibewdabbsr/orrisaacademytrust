@@ -87,7 +87,7 @@ const Team = () => {
           <div className="prose prose-blue max-w-none">
             <h3 className="text-2xl font-bold text-gray-900 font-['Merriweather']">Our Team's Vision</h3>
             <p>
-              The leadership at Orrisa Academy Trust brings together diverse expertise in education, 
+              The leadership at Orissa Academy Trust brings together diverse expertise in education, 
               management, community development, and cultural preservation. Our team shares a common 
               vision of creating educational opportunities that are accessible, inclusive, and transformative.
             </p>
