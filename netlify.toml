@@ -1,15 +1,6 @@
 [build]
-  command = "npm run build"
-  publish = "dist/public"
-
-[functions]
-  directory = "netlify/functions"
-  node_bundler = "esbuild"
-
-[[redirects]]
-  from = "/api/*"
-  to = "/.netlify/functions/api/:splat"
-  status = 200
+  command = "vite build"
+  publish = "dist"
 
 [[redirects]]
   from = "/*"

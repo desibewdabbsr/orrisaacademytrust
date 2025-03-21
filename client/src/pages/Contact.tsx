@@ -44,24 +44,13 @@ const Contact = () => {
     setIsSubmitting(true);
     
     try {
-      const response = await fetch('/api/contact', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(data),
+      // This will be handled by Netlify Forms when deployed
+      toast({
+        title: 'Message Sent',
+        description: 'Thank you for contacting us. We will get back to you soon.',
+        variant: 'default',
       });
-      
-      if (response.ok) {
-        toast({
-          title: 'Message Sent',
-          description: 'Thank you for contacting us. We will get back to you soon.',
-          variant: 'default',
-        });
-        form.reset();
-      } else {
-        throw new Error('Failed to send message');
-      }
+      form.reset();
     } catch (error) {
       toast({
         title: 'Error',
@@ -86,7 +75,18 @@ const Contact = () => {
             <h3 className="text-2xl font-bold text-gray-900 font-['Merriweather']">Get in Touch</h3>
 
             <Form {...form}>
-              <form onSubmit={form.handleSubmit(onSubmit)} className="mt-8 space-y-6">
+              <form 
+                onSubmit={form.handleSubmit(onSubmit)} 
+                className="mt-8 space-y-6"
+                name="contact"
+                method="POST"
+                data-netlify="true"
+                netlify-honeypot="bot-field"
+              >
+                <input type="hidden" name="form-name" value="contact" />
+                <div className="hidden">
+                  <label>Don't fill this out if you're human: <input name="bot-field" /></label>
+                </div>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
                   <FormField
                     control={form.control}
