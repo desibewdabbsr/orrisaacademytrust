@@ -188,7 +188,7 @@ const Contact = () => {
                 <div className="ml-4">
                   <h4 className="text-lg font-medium text-gray-900">Phone</h4>
                   <p className="mt-1 text-gray-600">
-                    +91 947173479
+                    +91 1234567890
                   </p>
                 </div>
               </div>
@@ -202,7 +202,7 @@ const Contact = () => {
                 <div className="ml-4">
                   <h4 className="text-lg font-medium text-gray-900">Email</h4>
                   <p className="mt-1 text-gray-600">
-                    orrisaacademy1@gmail.com
+                    info@orrisaacademy.org
                   </p>
                 </div>
               </div>
