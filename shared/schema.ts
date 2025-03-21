@@ -45,7 +45,7 @@ export const donations = pgTable("donations", {
   id: serial("id").primaryKey(),
   donorName: text("donor_name").notNull(),
   donorEmail: text("donor_email").notNull(),
-  donorPhone: text("donor_phone"),
+  donorPhone: text("donor_phone"), // Make nullable
   amount: integer("amount").notNull(),
   paymentId: text("payment_id"),
   paymentStatus: text("payment_status").default("pending"),

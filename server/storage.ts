@@ -82,8 +82,9 @@ export class MemStorage implements IStorage {
       updatedAt: now,
       paymentId: null,
       paymentStatus: "pending",
-      // Ensure donorPhone is never undefined
-      donorPhone: insertDonation.donorPhone ?? null
+      // We've updated the schema to make donorPhone notNull with a default,
+      // so we ensure it's never empty
+      donorPhone: insertDonation.donorPhone || ""
     };
     this.donations.set(id, donation);
     return donation;
