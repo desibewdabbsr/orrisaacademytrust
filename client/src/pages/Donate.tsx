@@ -241,7 +241,7 @@ const Donate = () => {
             </div>
             
             <p className="mt-8 text-center">
-              For more information on these opportunities, please contact us at <span className="font-semibold">orrisaacademy1@gmail.com</span>
+              For more information on these opportunities, please contact us at <span className="font-semibold">orissaacademy1@gmail.com</span>
             </p>
           </div>
         </div>

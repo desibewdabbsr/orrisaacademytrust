@@ -565,7 +565,7 @@ const Home = () => {
                   <div className="ml-4">
                     <h4 className="text-lg font-medium text-gray-900">Email</h4>
                     <p className="mt-1 text-gray-600">
-                      orrisaacademy1@gmail.com
+                      orissaacademy1@gmail.com
                     </p>
                   </div>
                 </div>
